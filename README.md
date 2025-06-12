@@ -44,9 +44,10 @@ The chatbot ensures that each user accesses only the data permitted for their ro
 
 ---
 
-## 📸 Project Screenshot
+## 📸 Project Screenshots
 
 ![Screenshot 2025-06-12 180720](https://github.com/user-attachments/assets/57506315-60df-45d5-a2e3-23ad796f4439)
+
 
 
 ![Screenshot 2025-06-12 180744](https://github.com/user-attachments/assets/61ec8e99-d0b5-4fff-be9a-6c3dd55ddf39)
