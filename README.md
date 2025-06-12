@@ -46,14 +46,7 @@ The chatbot ensures that each user accesses only the data permitted for their ro
 
 ## 📸 Project Screenshot
 
-*Add a screenshot of the working chatbot interface here.*
-*Example: Login page or chat window.*
-
-```text
-# Example:
-# ![Chatbot Screenshot]([Screenshot 2025-06-12 180744](https://github.com/user-attachments/assets/394d8b5b-5c69-4d4b-80cc-dc0a6d2bfa34)
-)
-```
+![Screenshot 2025-06-12 180744](https://github.com/user-attachments/assets/61ec8e99-d0b5-4fff-be9a-6c3dd55ddf39)
 
 ---
 
