@@ -51,7 +51,7 @@ The chatbot ensures that each user accesses only the data permitted for their ro
 
 ```text
 # Example:
-# ![Chatbot Screenshot](![Screenshot 2025-06-12 180744](https://github.com/user-attachments/assets/394d8b5b-5c69-4d4b-80cc-dc0a6d2bfa34)
+# ![Chatbot Screenshot]([Screenshot 2025-06-12 180744](https://github.com/user-attachments/assets/394d8b5b-5c69-4d4b-80cc-dc0a6d2bfa34)
 )
 ```
 
